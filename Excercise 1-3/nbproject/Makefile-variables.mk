@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=excersice_1-3
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/excersice_1-3
+CND_ARTIFACT_NAME_Debug=excercise_1-3
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/excercise_1-3
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=excersice1-3.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/excersice1-3.tar
+CND_PACKAGE_NAME_Debug=excercise1-3.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/excercise1-3.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=excersice_1-3
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/excersice_1-3
+CND_ARTIFACT_NAME_Release=excercise_1-3
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/excercise_1-3
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=excersice1-3.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/excersice1-3.tar
+CND_PACKAGE_NAME_Release=excercise1-3.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/excercise1-3.tar
 #
 # include compiler specific variables
 #
