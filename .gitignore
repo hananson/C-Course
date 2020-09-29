@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Excersice 1-1/build/
+/Excersice 1-1/dist/
