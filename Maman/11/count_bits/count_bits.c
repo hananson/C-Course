@@ -1,8 +1,6 @@
-
 #include <stdio.h>
-short int count_bits(long int num);
-
 int main(void)
 {
-    return 0;
+	printf("Hello World\n");    
+	return 0;
 }
