@@ -8,7 +8,7 @@ void printIntArray(int *array, int array_len, char *msg)
         printf("%d ", array[i]);    /* Print the current int element */
     printf("\n");                   /* Print newline */
 }
-
+/*
 void print4x4IntArray(int *array)
 {
     int i, j;
@@ -20,3 +20,4 @@ void print4x4IntArray(int *array)
     }
     printf("\n");
 }
+*/

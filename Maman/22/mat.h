@@ -5,6 +5,6 @@
 
 typedef int mat[4][4];
 void printIntArray(int *array, int array_len, char *msg);
-void print4x4IntArray(int *array);
+/*void print4x4IntArray(int *array);*/
 
 #endif
