@@ -19,7 +19,7 @@ int main(void)
 
     printf("Please Enter the desired command:\n");
     
-    scanf("%s", &input);
+    scanf("%s", input);
     printf("%s", input);
 
     return 0;
