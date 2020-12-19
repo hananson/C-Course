@@ -7,7 +7,7 @@ int main(void)
     /*print4x4IntArray(MAT_A);*/
 
     int i, j;
-    char *input;
+    char input[MAX_INPUT_LENGTH];
 
     for(i=0;i<4;i++)
     {

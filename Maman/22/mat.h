@@ -1,6 +1,7 @@
 #ifndef MAT_H
 #define MAT_H
 #define EMPTY_MAT {{0},{0}}
+#define MAX_INPUT_LENGTH 100
 #include <stdio.h>
 
 typedef int mat[4][4];
