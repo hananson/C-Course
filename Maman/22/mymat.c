@@ -19,8 +19,8 @@ int main(void)
 
     printf("Please Enter the desired command:\n");
     
-    scanf("%c", &input);
-    printf("%c", input);
+    scanf("%s", &input);
+    printf("%s", input);
 
     return 0;
 }
