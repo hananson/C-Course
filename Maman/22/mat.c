@@ -18,4 +18,5 @@ void print4x4IntArray(int *array)
             printf("%d ", array[i][j]);
         printf("\n");
     }
+    printf("\n");
 }
